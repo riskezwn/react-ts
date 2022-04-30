@@ -20,5 +20,8 @@ module.exports = {
     '@typescript-eslint'
   ],
   rules: {
+  },
+  globals: {
+    JSX: true
   }
 }
